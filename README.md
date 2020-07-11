@@ -42,5 +42,7 @@
 |Bathroom	Shower	    |236	|60	    |2,360|
 |Bathroom	Toilet	    |96	    |65	    |960  |
 
+* Please contact the lableader of AiTeR lab (aiter.gist.ac.kr) for FULL dataset.
+
 ## Acknowledgement
 This work was supported in part by the Institute for Information & communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) (2017-0-00255, Autonomous digital companion framework and application)
