@@ -13,6 +13,7 @@
 * * UMA-8 USB mic array V2.0
 ## 잡음 데이터 규격 
 * 실외 환경
+
 |Noisy class              |Number of Files Average | RMS Power (dB) |	Total Length(sec)|
 |----------------|-------------------------|-------------------------|-------------------------|
 |Caffe	Bell	    |43|	-26	| 657
@@ -28,6 +29,7 @@
 |Subway	Train-In	|47|	-15	| 3,500
 |Subway	Station	    |22|	-33	| 2,035
 * 실내 환경
+
 |Noisy class              |Number of Files Average | RMS Power (dB) |	Total Length(sec)|
 |----------------|-------------------------|-------------------------|-------------------------|
 |Living Room	TV	        |210	|60	    |2,100|
